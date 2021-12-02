@@ -1,2 +1,2 @@
 # EnglishWordsRecorder-demo
-A English Words Recorder DEMO
+Recor English

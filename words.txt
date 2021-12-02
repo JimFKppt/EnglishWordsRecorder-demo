@@ -1,0 +1,6 @@
+control 控制
+speed 速度
+terminal 终端
+programmer 程序员
+input 输入
+delete 删除
