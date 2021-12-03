@@ -12,8 +12,11 @@ def print_words():
         print(data)
 
 # 程序入口
-select=input("Please select mode(record/print): ")
-if select=='record':
-    record()
-elif select=='print':
-    print_words()
+while True:
+    select=input("Please select mode:\n---r(record)\n---p(print)\n---e(exit)\n: ")
+    if select=='record' or select=='r':
+        record()
+    elif select=='print' or select=='p':
+        print_words()
+    else:
+        break

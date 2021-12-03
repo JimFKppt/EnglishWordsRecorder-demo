@@ -4,3 +4,8 @@ terminal 终端
 programmer 程序员
 input 输入
 delete 删除
+when 什么时候
+make 使；让；制作
+also 还
+line 线；行
+keep improving 精益求精
