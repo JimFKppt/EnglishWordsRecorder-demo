@@ -9,3 +9,10 @@ make 使；让；制作
 also 还
 line 线；行
 keep improving 精益求精
+command not found 命令不存在
+did you mean 你的意思是
+did you know 你可知道
+did you 你是否
+config 配置
+binary 二进制
+directory 目录
